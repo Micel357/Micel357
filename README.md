@@ -1,6 +1,6 @@
 # 🚀 Micael Vasconcelos — Transformando ideias em software
 
- Estudante de ADS (3º período) afeccionado por resolver problemas com código.  
+ Estudante de ADS (4º período) afeccionado por resolver problemas com código.  
 🔥 Curto desenvolver em **Java**, brincar com **C**, dominar **SQL Server** e me aventurar no **React**.  
 🎮 Fora do código: gosto de jogar,ler e aprender coisas novas.  
 
